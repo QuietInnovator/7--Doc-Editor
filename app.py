@@ -82,4 +82,4 @@ else:
         st.warning("Please enter some text to process.")
 
 st.markdown("---")
-st.markdown("Powered by [OpenAI](https://openai.com) • Made with ❤️ using Streamlit")
+st.markdown("Powered by [OpenAI](https://openai.com) • Chadi Abi Fadel")
