@@ -4,7 +4,7 @@ from openai import OpenAI
 import os
 
 # Load environment variables from .env file
-load_dotenv()
+# load_dotenv()
 api_key = st.secrets.get("OPENAI_API_KEY")
 
 if not api_key:
